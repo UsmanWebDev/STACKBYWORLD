@@ -1,0 +1,9 @@
+
+.rateing-color {
+    color: rgb(255, 204, 0);
+}
+
+.product-item{
+    max-width: 300px;
+    margin: auto;
+}
